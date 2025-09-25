@@ -51,5 +51,8 @@
   },
   "peerDependencies": {
     "n8n-workflow": "*"
+  },
+  "dependencies": {
+    "discord-api-types": "^0.38.26"
   }
 }
