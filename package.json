@@ -53,6 +53,7 @@
     "n8n-workflow": "*"
   },
   "dependencies": {
+    "@notionhq/client": "^5.1.0",
     "discord-api-types": "^0.38.26"
   }
 }
