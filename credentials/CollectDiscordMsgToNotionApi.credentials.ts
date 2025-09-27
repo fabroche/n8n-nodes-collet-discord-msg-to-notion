@@ -4,7 +4,7 @@ import {
 	ICredentialType,
 	INodeProperties } from 'n8n-workflow';
 
-export class collectDiscordMsgToNotionApi implements ICredentialType {
+export class CollectDiscordMsgToNotionApi implements ICredentialType {
 	name = 'collectDiscordMsgToNotionApi';
 	displayName = 'Collect Discord Msg To Notion API';
 	icon: Icon = 'file:batata-icon.svg';
